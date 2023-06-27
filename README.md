@@ -1,6 +1,6 @@
-# Sourcegraph App issue tracker
+# Cody app issue tracker
 
-This is the dedicated issue tracker for [Sourcegraph App](https://docs.sourcegraph.com/app) - _the lightweight, single-binary version of Sourcegraph that runs on your local machine._
+This is the dedicated issue tracker for [the Cody app](https://docs.sourcegraph.com/app) - _the lightweight, native desktop application that connects your local code to our AI coding assistant, Cody._
 
 ## Quick links
 
